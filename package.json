@@ -1,0 +1,20 @@
+{
+  "name": "word-up",
+  "productName": "Word Up",
+  "version": "0.1.0",
+  "description": "A word processor that only shows one word at a time, to help keep the words flowing.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": ["text", "distraction-free", "editor", "writing"],
+  "author": "Nick Loewen",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "write-file": "^1.0.0"
+  }
+}
