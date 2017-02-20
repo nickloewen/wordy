@@ -1,0 +1,20 @@
+{
+  "name": "word-up",
+  "productName": "Word Up",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [],
+  "author": "Nick Loewen",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "write-file": "^1.0.0"
+  }
+}
